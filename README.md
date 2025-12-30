@@ -1,4 +1,4 @@
-# &#127756; Noah Barrett
+# Noah Barrett
 
 **Welder &#9193; Technology (Aspiring IT Professional, Welder, Contractor)**
 

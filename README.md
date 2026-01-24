@@ -1,8 +1,8 @@
-<h1>Hi, I'm Noah! <br/><a href="">IT Tech</a>, <a href="">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Noah! <br/><a href="">Network Tech</a>, <a href="">Aspiring Cybersecurity Professional</a>
 
 
-## Cybersecurity Projects:
+## 🔒 Cybersecurity Projects:
 
-## Other Work:
+## 💻 Other Work:
 
-## Connect with me:
+## 🤝 Connect with me:

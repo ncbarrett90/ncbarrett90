@@ -1,6 +1,6 @@
 # Hi, I'm Noah! 👋
 
-### [Network Technician](path) <br> [Aspiring Cybersecurity Professional](path)
+### [Network Technician](path) <br> [Aspiring Cybersecurity Professional](https://github.com/ncbarrett90/cybersecurity-lab)
 
 **Network technician** specializing in MSP client onboarding, network design, and modern endpoint/cloud management.
 
@@ -23,7 +23,7 @@ Outside of client work, I maintain a personal security lab where I design, deplo
 
 🔒 **Cybersecurity Lab** <BR>
 A personal lab simulating small enterprise environments to practice and document secure network and system design. <br>
-→ [View the Security Lab](path/to/file.md)
+→ [View the Security Lab](https://github.com/ncbarrett90/cybersecurity-lab)
 
 Includes:
 - OPNsense firewall deployment and hardening

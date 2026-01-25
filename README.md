@@ -14,6 +14,7 @@ Outside of client work, I maintain a personal security lab where I design, deplo
 
 - MSP client onboarding and technical discovery
 - Network assessment, redesign, and documentation
+- Network security implementation
 - Microsoft 365 tenant administration
 - Endpoint management and security (NinjaOne, Bitdefender GravityZone)
 - Email migrations and identity transitions

@@ -1,6 +1,6 @@
 # Hi, I'm Noah! 👋
 
-### [Network Technician](path) <br> [Aspiring Cybersecurity Professional](https://github.com/ncbarrett90/cybersecurity-lab)
+### [Network Technician](https://www.linkedin.com/in/-noah-barrett-/) <br> [Cybersecurity Enthusiast](https://github.com/ncbarrett90/cybersecurity-lab)
 
 **Network technician** specializing in MSP client onboarding, network design, and modern endpoint/cloud management.
 

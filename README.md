@@ -29,8 +29,8 @@ Hands on lab simulating a small enterprise environment with segmented security z
 | 1 | OPNsense Firewall Deployment & Hardening | OPNsense, NAT, DNS, DHCP, WireGuard VPN, firewall logging |
 | 2 | Network Segmentation with VLANs | 802.1Q trunking, security zones, firewall rules, managed switches, Unifi WAP |
 | 3 | Proxmox Hypervisor Deployment & Hardening | Proxmox VE, Linux, SSH hardening, SMTP alerting |
-| 4 | Ubuntu Server Deployment & Hardening | Ubuntu Server, fail2ban, ufw, unattended-upgrades |
-| 5 | Active Directory Environment Build | Windows Server, Active Directory, Domain Controller, Windows 10/11 |
+| 4 | Ubuntu Server Deployment & Hardening | Ubuntu server, fail2ban, ufw, unattended-upgrades |
+| 5 | Active Directory Environment Build | Windows server, Active Directory, Domain Controller, Windows 10/11 |
 | 6 | Proxmox Backup Server Deployment | Proxmox Backup Server, OMV, ZFS RAID, stateless API auth, disaster recovery |
 | 7 | Wazuh SIEM & EDR Deployment | Wazuh, SIEM, vulnerability detection, FIM, configuration assessment |
 

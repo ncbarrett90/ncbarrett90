@@ -1,97 +1,69 @@
 # Hi, I'm Noah! 👋
 
-### [Network Technician](https://www.linkedin.com/in/-noah-barrett-/) <br> [Cybersecurity Enthusiast](https://github.com/ncbarrett90/cybersecurity-lab)
+**IT professional with a focus on cybersecurity** - currently working as a network technician at an MSP where I respond to real world security incidents, manage identity and access across SMB tenants, and harden client networks. Outside of work I run a personal security lab where I build, break, and document enterprise style infrastructure.
 
-**Network technician** specializing in MSP client onboarding, network design, and modern endpoint/cloud management.
+📍 Saint Paul, MN | [LinkedIn](https://www.linkedin.com/in/-noah-barrett-/) | CompTIA Security+ · Network+ · A+
 
-## About Me
+### [🤝 Connect with me](https://www.linkedin.com/in/-noah-barrett-/)
 
-I’m an IT professional with hands-on experience supporting and onboarding MSP clients in production environments. My work includes network assessment and design, system and tenant setup, email migrations, and endpoint management.
 
-Outside of client work, I maintain a personal security lab where I design, deploy, and document infrastructure to deepen my understanding of network security, firewalling, system hardening or any other technology I can get my hands on.
+
+## What I'm Working On
+
+- 🔵 **Blue team fundamentals** - deploying and tuning Wazuh SIEM/EDR, building detection rules, and documenting alert triage workflows
+- 🔴 **Red team security** - using Kali Linux to simulate attacks and understand them from the defender's perspective
+- 📖 **Detection engineering** - building out a library of simulated attack scenarios with corresponding Wazuh detection and response notes
+
+
+
+## Security Lab
+
+Hands on lab simulating a small enterprise environment with segmented security zones, layered defenses, and centralized monitoring, built to develop real blue and red team skills.
+
+🔒 [View the full lab](https://github.com/ncbarrett90/cybersecurity-lab)
+
+**Completed modules:**
+
+| # | Module | Key Technologies |
+|---|--------|-----------------|
+| 1 | OPNsense Firewall Deployment & Hardening | OPNsense, NAT, DNS, DHCP, WireGuard VPN, firewall logging |
+| 2 | Network Segmentation with VLANs | 802.1Q trunking, security zones, firewall rules, managed switches, Unifi WAP |
+| 3 | Proxmox Hypervisor Deployment & Hardening | Proxmox VE, Linux, SSH hardening, SMTP alerting |
+| 4 | Ubuntu Server Deployment & Hardening | Ubuntu Server, fail2ban, ufw, unattended-upgrades |
+| 5 | Active Directory Environment Build | Windows Server, Active Directory, Domain Controller, Windows 10/11 |
+| 6 | Proxmox Backup Server Deployment | Proxmox Backup Server, OMV, ZFS RAID, stateless API auth, disaster recovery |
+| 7 | Wazuh SIEM & EDR Deployment | Wazuh, SIEM, vulnerability detection, FIM, configuration assessment |
+
+<br>
+
+**In progress:** Wazuh File integrity monitoring (FIM) integration, learning Wazuh fundamentals
+
 
 ## Professional Focus
 
-- MSP client onboarding and technical discovery
-- Network assessment, redesign, and documentation
-- Network security implementation
-- Microsoft 365 tenant administration
-- Endpoint management and security (NinjaOne, Bitdefender GravityZone)
-- Email migrations and identity transitions
+- Incident response & security event triage
+- SIEM & EDR deployment, tuning, and operations (Wazuh, Bitdefender GravityZone)
+- Network security design - firewalls, VLANs, VPN
+- Identity & access management - Active Directory, Microsoft Entra ID, MFA enforcement
+- Endpoint security & hardening - Windows & Linux (NinjaOne RMM)
+- Email Security - SPF, DKIM, DMARC configuration and validation
 
-## Featured Work
 
-🔒 **Cybersecurity Lab** <BR>
-A personal lab simulating small enterprise environments to practice and document secure network and system design. <br>
-→ [View the Security Lab](https://github.com/ncbarrett90/cybersecurity-lab)
-
-Includes:
-- OPNsense firewall deployment and hardening
-- VLAN-based network segmentation
-- Proxmox deployment and hypervisor hardening (in progress)
-
-<br>
-
- 🧰 **MSP Procedures & Technical Write-Ups** <br>
-Documentation and process notes based on real-world MSP work, adapted for public sharing. <br>
-→ [How I Work](path/to/file.md)
-
-Planned topics:
-- WatchGuard firewall deployment and baseline configuration
-- Email migration workflows using MigrationWiz
-- Microsoft 365 tenant setup and structure
-- Endpoint onboarding and security baselines
 
 ## Tools and Platforms
 
-Generally, I will always look for an open source option.
+**Security & Monitoring**
+Wazuh · Bitdefender GravityZone · Kali Linux · Suricata · Nessus *(in progress)*
 
-<details>
-<summary><strong>Home</strong></summary>
+**Network Infrastructure**
+OPNsense · pfSense · WatchGuard · WireGuard VPN · Unifi · Netgear/Cisco managed switches
 
- <br>
+**Virtualization & Servers**
+Proxmox VE · VMware Workstation · Ubuntu Server · Windows Server 2019/2022 · Docker
 
- - OPNsense firewall
- - pfSense firewall
- - Proxmox Virtual environment
- - VMware Workstation Pro
- - Ubuntu Server
- - Ubuntu Desktop
- - TP-Link/Netgear managed switches
- - Unifi wireless access points
- - Unifi Network Server
- - Docker
- - Linux
- - GitHub
- - Virtualization
+**Identity & Endpoint Management**
+Active Directory · Microsoft Entra ID · NinjaOne RMM · Microsoft 365 · Windows Configuration Designer
 
-</details>
 
-<details>
-<summary><strong>Work</strong></summary>
-
-<br>
-
-- WatchGuard firewalls
-- Unifi wireless access points
-- Unifi Network Server
-- Netgear/Cisco managed switches
-- Windows endpoints and servers
-- WatchGuard Cloud
-- NinjaOne
-- Bitdefender GravityZone
-- M365 administration
-- Windows 11
-- Windows Server (2009-2025)
-- BitTitan MigrationWiz
-- Kickserv ticketing
-- Zoom
-- Pax8 (licensing)
-- Macrium Reflect
-- Windows Configuration Designer
-- Active Directory
- 
-</details>
-
- ### [🤝 Connect with me](https://www.linkedin.com/in/-noah-barrett-/)
+### [🤝 Connect with me](https://www.linkedin.com/in/-noah-barrett-/)
   

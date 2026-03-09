@@ -1,6 +1,6 @@
 # Hi, I'm Noah! 👋
 
-**IT professional with a focus on cybersecurity** - currently working as a network technician at an MSP where I respond to real world security incidents, manage identity and access across SMB tenants, and harden client networks. Outside of work I run a personal security lab where I build, break, and document enterprise style infrastructure.
+**IT professional with a focus on cybersecurity** - Currently working as a network technician at an MSP where I respond to real world security incidents, manage identity and access across SMB tenants, and harden client networks. Outside of work I run a personal security lab where I build, break, and document enterprise style infrastructure.
 
 📍 Saint Paul, MN | [LinkedIn](https://www.linkedin.com/in/-noah-barrett-/) | CompTIA Security+ · Network+ · A+
 

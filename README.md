@@ -24,15 +24,16 @@ Hands on lab simulating a small enterprise environment with segmented security z
 
 **Completed modules:**
 
-| # | Module | Key Technologies |
-|---|--------|-----------------|
-| 1 | OPNsense Firewall Deployment & Hardening | OPNsense, NAT, DNS, DHCP, WireGuard VPN, firewall logging |
-| 2 | Network Segmentation with VLANs | 802.1Q trunking, security zones, firewall rules, managed switches, Unifi WAP |
-| 3 | Proxmox Hypervisor Deployment & Hardening | Proxmox VE, Linux, SSH hardening, SMTP alerting |
-| 4 | Ubuntu Server Deployment & Hardening | Ubuntu server, fail2ban, ufw, unattended-upgrades |
-| 5 | Active Directory Environment Build | Windows server, Active Directory, Domain Controller, Windows 10/11 |
-| 6 | Proxmox Backup Server Deployment | Proxmox Backup Server, OMV, ZFS RAID, stateless API auth, disaster recovery |
-| 7 | Wazuh SIEM & EDR Deployment | Wazuh, SIEM, vulnerability detection, FIM, configuration assessment |
+| Module | Key Technologies |
+|--------|-----------------|
+| Wazuh SIEM/EDR Detection Engineering | Wazuh, SIEM, EDR, threat detection, threat modeling, FIM, Kali Linux, Sysmon, Active Directory |
+| Wazuh SIEM & EDR Deployment | Wazuh, SIEM, vulnerability detection, FIM, configuration assessment |
+| Proxmox Backup Server Deployment | Proxmox Backup Server, OMV, ZFS RAID, stateless API auth, disaster recovery |
+| Active Directory Environment Build | Windows server, Active Directory, Domain Controller, Windows 10/11 |
+| Ubuntu Server Deployment & Hardening | Ubuntu server, fail2ban, ufw, unattended-upgrades |
+| Proxmox Hypervisor Deployment & Hardening | Proxmox VE, Linux, SSH hardening, SMTP alerting |
+| Network Segmentation with VLANs | 802.1Q trunking, security zones, firewall rules, managed switches, Unifi WAP |
+| OPNsense Firewall Deployment & Hardening | OPNsense, NAT, DNS, DHCP, WireGuard VPN, firewall logging |
 
 <br>
 

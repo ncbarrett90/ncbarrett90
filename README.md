@@ -37,8 +37,15 @@ Hands on lab simulating a small enterprise environment with segmented security z
 
 <br>
 
-**In progress:** Wazuh File integrity monitoring (FIM) integration, learning Wazuh fundamentals
+**In progress:** Detection engineering with Wazuh EDR, EDR integration with central SIEM (Splunk)
 
+
+
+## Wireshark Analysis
+
+A repository of packet analysis labs in an enterprise inspired home network.
+
+🦈 [Wireshark analysis repo](https://github.com/ncbarrett90/wireshark-analysis/blob/main/README.md)
 
 ## Professional Focus
 

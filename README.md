@@ -1,77 +1,65 @@
-# Hi, I'm Noah! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&color=58A6FF&center=true&vCenter=true&width=600&lines=Noah+Barrett&duration=1500&repeat=false&hideCursor=true" alt="Noah Barrett" />
+</p>
 
-**IT professional with a focus on cybersecurity** - Currently working as a network technician at an MSP where I respond to real world security incidents, manage identity and access across SMB tenants, and harden client networks. Outside of work I run a personal security lab where I build, break, and document enterprise style infrastructure.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&width=800&size=22&lines=M365+Incident+Response;BEC+Investigation+Methodology;Identity+%26+Email+Security;Build+it+to+learn+it" alt="Typing SVG" />
+</p>
 
-📍 Saint Paul, MN | [LinkedIn](https://www.linkedin.com/in/-noah-barrett-/) | CompTIA Security+ · Network+ · A+
+```bash
+~$ whoami
+Senior Technician · Saint Paul, MN
 
-### [🤝 Connect with me](https://www.linkedin.com/in/-noah-barrett-/)
+~$ focus
+Defensive ops: M365 IR · Phishing · BEC · Identity & Email Security
+Lab work: Three-tier AD · Detection Engineering · IR Tooling
 
+~$ currently-building
+kerflegal-lab — production-shaped AD, three-tier admin model
 
+~$ status
+Open to conversations on defensive security, IR, and lab work. Reach out anytime.
+```
 
-## What I'm Working On
+📍 Saint Paul, MN | [LinkedIn](https://www.linkedin.com/in/-noah-barrett-/) | CompTIA Security+, Network+, A+
 
-- 🔵 **Blue team fundamentals** - deploying and tuning Wazuh SIEM/EDR, building detection rules, and documenting alert triage workflows
-- 🔴 **Red team security** - using Kali Linux to simulate attacks and understand them from the defender's perspective
-- 📖 **Detection engineering** - building out a library of simulated attack scenarios with corresponding Wazuh detection and response notes
+## Currently building
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ncbarrett90/kerflegal-lab/main/diagrams/logical-topology.drawio.png" width="600" alt="kerflegal-lab logical topology" />
+</p>
 
+**[kerflegal-lab](https://github.com/ncbarrett90/kerflegal-lab)** is a production-shaped Active Directory environment built on Microsoft's three-tier administrative model. Six segmented network zones with default-deny between them. Architectural decisions documented as ADRs before implementation.
 
-## Security Lab
+**Architecture:**
+- Three-tier administrative model (Tier 0 forest infrastructure, Tier 1 servers, Tier 2 endpoints)
+- Per-tier privileged access workstations (PAWs)
+- Six segmented network zones with default-deny posture
+- Dedicated PAW hypervisor
+- Proxmox Backup Server classified as tier 0
+- Proxmox VE cluster with replication
 
-Hands on lab simulating a small enterprise environment with segmented security zones, layered defenses, and centralized monitoring, built to develop real blue and red team skills.
+**Documented artifacts:**
+- [17 Architecture Decision Records](https://github.com/ncbarrett90/kerflegal-lab/tree/main/decisions) covering tiering, segmentation, naming, and backup architecture
+- [Build log](https://github.com/ncbarrett90/kerflegal-lab/tree/main/build-log) with phase-by-phase narrative writeups
+- [Procedures](https://github.com/ncbarrett90/kerflegal-lab/tree/main/procedures) with per-device runbooks ordered by execution sequence
+- [Network design](https://github.com/ncbarrett90/kerflegal-lab/tree/main/design) including IP and VLAN scheme
 
-🔒 [View the full lab](https://github.com/ncbarrett90/cybersecurity-lab)
+**Stack:** OPNsense · Proxmox VE · Proxmox Backup Server · Wazuh · Windows Server · AD DS · AD CS
 
-**Completed modules:**
+## Practicing in production
 
-| Module | Key Technologies |
-|--------|-----------------|
-| Wazuh SIEM/EDR Detection Engineering | Wazuh, SIEM, EDR, threat detection, threat modeling, FIM, Kali Linux, Sysmon, Active Directory |
-| Wazuh SIEM & EDR Deployment | Wazuh, SIEM, vulnerability detection, FIM, configuration assessment |
-| Proxmox Backup Server Deployment | Proxmox Backup Server, OMV, ZFS RAID, stateless API auth, disaster recovery |
-| Active Directory Environment Build | Windows server, Active Directory, Domain Controller, Windows 10/11 |
-| Ubuntu Server Deployment & Hardening | Ubuntu server, fail2ban, ufw, unattended-upgrades |
-| Proxmox Hypervisor Deployment & Hardening | Proxmox VE, Linux, SSH hardening, SMTP alerting |
-| Network Segmentation with VLANs | 802.1Q trunking, security zones, firewall rules, managed switches, Unifi WAP |
-| OPNsense Firewall Deployment & Hardening | OPNsense, NAT, DNS, DHCP, WireGuard VPN, firewall logging |
+Day-to-day Microsoft 365 incident response in production tenants. Phishing triage, BEC investigation, account takeover containment. Full work context on [LinkedIn](https://www.linkedin.com/in/-noah-barrett-/).
 
-<br>
+## Other repos
 
-**In progress:** Detection engineering with Wazuh EDR, EDR integration with central SIEM (Splunk)
+- **[cybersecurity-lab](https://github.com/ncbarrett90/cybersecurity-lab)** (retired). 8 modules of documented home lab work covering OPNsense, segmented VLANs, Proxmox VE and PBS, Active Directory, Ubuntu hardening, and Wazuh SIEM/EDR deployment with detection engineering.
+- **[wireshark-analysis](https://github.com/ncbarrett90/wireshark-analysis)**. Packet analysis labs in an enterprise-inspired home network.
 
+## Focus areas
 
-
-## Wireshark Analysis
-
-A repository of packet analysis labs in an enterprise inspired home network.
-
-🦈 [Wireshark analysis repo](https://github.com/ncbarrett90/wireshark-analysis/blob/main/README.md)
-
-## Professional Focus
-
-- Incident response & security event triage
-- SIEM & EDR deployment, tuning, and operations (Wazuh, Bitdefender GravityZone)
-- Network security design - firewalls, VLANs, VPN
-- Identity & access management - Active Directory, Microsoft Entra ID, MFA enforcement
-- Endpoint security & hardening - Windows & Linux (NinjaOne RMM)
-- Email Security - SPF, DKIM, DMARC configuration and validation
-
-
-
-## Tools and Platforms
-
-**Security & Monitoring**
-Wazuh · Bitdefender GravityZone · Kali Linux · Suricata · Nessus *(in progress)*
-
-**Network Infrastructure**
-OPNsense · pfSense · WatchGuard · WireGuard VPN · Unifi · Netgear/Cisco managed switches
-
-**Virtualization & Servers**
-Proxmox VE · VMware Workstation · Ubuntu Server · Windows Server 2019/2022 · Docker
-
-**Identity & Endpoint Management**
-Active Directory · Microsoft Entra ID · NinjaOne RMM · Microsoft 365 · Windows Configuration Designer
-
-
-### [🤝 Connect with me](https://www.linkedin.com/in/-noah-barrett-/)
-  
+- Microsoft 365 incident response
+- Identity and access management (Entra ID, Active Directory)
+- Email security (SPF, DKIM, DMARC, BEC investigation methodology)
+- Detection rule design and security tooling
+- PowerShell-driven IR tooling
